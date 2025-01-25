@@ -146,6 +146,9 @@ Here’s what each Python script does and why it’s included in the repository:
   3. Optimize tokenization and add subword vocabularies for limited datasets.
 
 ---
+
+## Requirements
+
 ```python
 transformers==4.34.0
 torch==2.1.0
