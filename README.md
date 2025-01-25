@@ -1,1 +1,1 @@
-# -gpt2-jungle-book-
+# gpt2-for-jungle-book
