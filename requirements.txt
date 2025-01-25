@@ -1,0 +1,11 @@
+# Core Dependencies
+transformers==4.34.0
+torch==2.1.0
+torchvision==0.15.0
+datasets==2.14.1
+tqdm==4.66.1
+numpy==1.25.0
+accelerate==0.22.0
+huggingface-hub==0.17.0
+scipy==1.11.2
+tokenizers==0.14.1
