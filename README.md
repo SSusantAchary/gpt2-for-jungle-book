@@ -195,6 +195,9 @@ python generate.py --model_name "15M" --prompt "Deep in the jungle, Mowgli"
 - Framework: Hugging Face Transformers.
 - Compute: Kaggle T4 GPUs.
 
+## Show your support
+Give a 🌟 if this repo helped you learn! 
+
 ```bibtex
 @misc{Curious Soul,
     author       = {S Susant Achary},
