@@ -194,3 +194,11 @@ python generate.py --model_name "15M" --prompt "Deep in the jungle, Mowgli"
 - Dataset: *The Jungle Book* by Rudyard Kipling (Public Domain).
 - Framework: Hugging Face Transformers.
 - Compute: Kaggle T4 GPUs.
+
+```bibtex
+@misc{Curious Soul,
+    author       = {S Susant Achary},
+    title        = {🐋gpt2-for-jungle-book},
+    year         = {2025}
+}
+```
